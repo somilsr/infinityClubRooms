@@ -1,0 +1,7 @@
+
+{
+    "Name":[ "John", "Anna", "Peter" ],
+    "type":["delux","super delux" ,"luxury"],
+    "capacity":["2" ,"3", "4"],
+    "Fare":["1000", "2000", "3000"]
+    }
